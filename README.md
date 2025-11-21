@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FDD835&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+JoonYeong+Lee+%F0%9F%91%8B;SYSTEM-ENGINEER+%7C+DEVOPS+;Welcome+to+My+Digital+Universe+%F0%9F%8C%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FDD835&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+JoonYeong+Lee+%F0%9F%91%8B;SYSTEM+DEVELOPER+%7C+DEVOPS+ENGINEER;Welcome+to+My+Digital+Universe+%F0%9F%8C%8C" alt="Typing SVG" />
 </h1>
 
 <p align="right">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="code gif" />
+  <img src="https://media.giphy.com/media/3o7TKPssgA4dGcIM9K/giphy.gif" width="500" alt="dev ops gif" />
 </p>
 
 <p align="center">
@@ -25,24 +25,25 @@
 </p>
 
 ### 🌟 About Me
-> 🚀 “Coding isn't just lines of code, it's poetry in motion.”
+> 🚀 "I automate, optimize, and scale systems. DevOps is where code meets infrastructure."
 - 🎓 2nd Year CSE @ Dongyang Mirae University
-- 🧠 Like: `React`, `Java`, `Godot Engine`, `JavaScript`, `Linux`, `Vite`
-- 🌍 Creator of projects like: `Diner 81`, `2D Game`, `3D Game`
+- 🧠 Passionate about: `Linux`, `Docker`, `Kubernetes`, `AWS/Azure`, `CI/CD`, `Infrastructure as Code`, `Automation`, `Monitoring`
+- 🌍 Creator of projects like: `Automated Deployment Tools`, `System Monitoring Scripts`, `Personal Cloud Projects`
 
 ### 🧩 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,java,js,css,mysql,linux,github,c,arduino" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,azure,git,ansible,terraform,python,java" />
   <br/>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monitoring-Prometheus-FF6C37?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </div>
 
-
-### ✨ Fun Stuff
-- 💡 I love solving problems creatively.
-- 🛠 I like to stay busy and work out during free time.
-- 🌴 Currently dreaming of a digital nomad life 🧳
+### ✨ Interests & Hobbies
+- 💡 Automating repetitive tasks and building efficient workflows
+- 🛠 Experimenting with cloud services and infrastructure
+- 🏋️‍♂️ Working out to stay sharp and focused
+- 🌴 Dreaming of a life where I can work from anywhere 🧳
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
