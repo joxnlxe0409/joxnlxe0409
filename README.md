@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKPssgA4dGcIM9K/giphy.gif" width="500" alt="dev ops gif" />
-</p>
-
-<p align="center">
   <a href="https://github.com/joxnlxe0409">
     <img src="https://img.shields.io/github/followers/joxnlxe0409?label=Follow&style=social" />
   </a>
