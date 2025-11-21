@@ -28,7 +28,6 @@
 > 🚀 "I automate, optimize, and scale systems. DevOps is where code meets infrastructure."
 - 🎓 2nd Year CSE @ Dongyang Mirae University
 - 🧠 Passionate about: `Linux`, `Docker`, `Kubernetes`, `AWS/Azure`, `CI/CD`, `Infrastructure as Code`, `Automation`, `Monitoring`
-- 🌍 Creator of projects like: `Automated Deployment Tools`, `System Monitoring Scripts`, `Personal Cloud Projects`
 
 ### 🧩 Tech Stack
 <div align="center">
